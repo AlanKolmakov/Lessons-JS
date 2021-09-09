@@ -60,6 +60,12 @@
 // тернарная или условная операция вычисляет и возвращает значения, т.е. является выражением.
 
 //! console.log(absValue);
+
+// Нахождение абсолютного значения. тернарная операция с функцией
+//const absValue = num => num >= 0 ? num : - num;
+
+//console.log(absValue(0));
+
 //let colour;
 
 //const getColour = colour === 'white' ? 'white' : 'black';
